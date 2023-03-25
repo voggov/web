@@ -8,7 +8,8 @@ export default function Time() {
   },[]);
   return (
     <div className={styles.container}>
-      <p>{time}</p>
+      <h1>Вожжов Илья Владимирович</h1>
+      <h2>19ВВП1</h2>
     </div>
   )
 }
