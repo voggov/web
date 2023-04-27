@@ -1,4 +1,4 @@
 import React from 'react';
 export default function ToListComponent(comp){
-    return <li>{comp.content}</li>
+    return <li>{comp.content}</li>  //list item
 }
